@@ -25,7 +25,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,aws,bash,c,cpp,css,django,docker,eclipse,gherkin,git,github,html,idea,java,js,kali,linux,matlab,maven,mysql,nodejs,php,postgres,postman,py,react,spring,sqlite,vscode,windows&perline=20" />
+    <img src="https://skillicons.dev/icons?i=angular,aws,bash,blender,c,cpp,css,django,docker,eclipse,gherkin,git,github,html,idea,java,js,kali,linux,matlab,maven,mysql,nodejs,php,postgres,postman,py,react,spring,sqlite,vscode,windows&perline=20" />
   </a>
 </p>
 <br>
